@@ -1,89 +1,69 @@
-## Hi 👋 I'm Hari Ragavendiran R
+# 👋 Hi, I'm Hari Ragavendiran R
 
-🎓 Final-year ECE student (2026)  
-🐍 Aspiring GenAI Engineer | Python Developer
-🛡️ Strong backend & web security fundamentals  
-🚀 Immediate Joiner | Open to Relocation  
+🚀 **GenAI Engineer | AI Engineer | Python Backend Developer**
 
-I focus on **building real-world systems** in Python, Backend APIs, and Generative AI — not just completing courses.
+I build production-ready AI applications using **Generative AI, RAG pipelines, and scalable backend systems**.
+Focused on turning AI concepts into **real-world, deployable products**.
 
 ---
 
-## 🔥 Current Focus
-- Building **Generative AI applications** using LLMs
-- Prompt engineering & hallucination handling
-- Backend development with Python & Flask
-- API design, validation, and debugging
-- Learning secure backend & API logic
+## 🧠 What I Do
+
+* Build **RAG-based GenAI systems** for document understanding & Q&A
+* Develop **LLM-powered applications** with API integrations
+* Design **scalable backend services** using Python (Flask/FastAPI)
+* Work on **ML models & real-world data pipelines**
+* Deploy applications and handle **production-level challenges**
 
 ---
 
-## 🧠 Core Skills
+## ⚙️ Tech Stack
 
-### 💻 Programming & Backend
-- Python, Bash
-- Flask (REST API Development)
-- Authentication & Authorization Logic
-- Input Validation & Error Handling
-- SQLite, MongoDB, MySQL
-
-### 🤖 Generative AI
-- LLM API Integration (Groq / OpenAI)
-- Prompt Engineering & Guardrails
-- System vs User Prompt Design
-- Hallucination Detection & Correction
-- AI-powered Chatbots
-
-### 🛡️ Security Awareness
-- Web Application Security (OWASP Top 10)
-- Authentication & Access Control Testing
-- IDOR, SQL Injection, XSS (hands-on labs)
-- API security basics
-- Burp Suite, Postman
-
-### 🧰 Tools & Platforms
-- Linux (Parrot OS, Ubuntu)
-- Git & GitHub
-- Docker (basic)
-- AWS EC2, S3
-- Jenkins, GitHub Actions
+**Languages:** Python, Bash
+**GenAI:** RAG, LLM APIs (OpenAI, Groq), Prompt Engineering
+**Backend:** Flask, FastAPI, REST APIs
+**ML:** PyTorch, Transformers, Model Training
+**Data:** Embeddings, Semantic Search, PDF Processing
+**Deployment:** Render, AWS, Docker, CI/CD
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Featured Projects
 
-### 🔹 GenAI Chatbot (Groq API)
-- Built a command-line Generative AI chatbot
-- Implemented prompt guardrails to avoid hallucinations
-- Practiced real-world LLM debugging & response control  
-🔗 https://github.com/HariRagavanR/GenAI_Bot
+### 📄 DocuMind AI – RAG-based PDF Q&A
 
-### 🔹 Flask To-Do Web Application
-- Full CRUD backend using Flask & SQLite
-- RESTful API design with clean routing
-- Persistent storage & status management
+* End-to-end RAG pipeline with semantic search
+* Context-aware LLM responses with reduced hallucination
+* Deployed and optimized for real-world usage
 
-### 🔹 Python Automation – File Organizer
-- Automated file classification using Python
-- Reduced manual effort via scripting & exception handling
+### 💻 CodeGenLite – AI Coding Assistant
 
-### 🔹 Password Audit Automation Tool
-- Python-based password analysis using Hashcat
-- Generated structured audit reports for weak credentials
+* Fine-tuned LLM using LoRA for code generation
+* Built custom dataset & efficient training pipeline
+* Interactive inference for coding & debugging
 
 ---
 
-## 🧠 Learning Philosophy
-> _Build → Break → Debug → Improve → Document_
+## 📌 Experience
 
-I believe real learning comes from **hands-on problem solving**, not just watching tutorials.
+* **GenAI Intern – STRYDO Technologies**
+* **Python Backend Intern – ProcessDrive India Pvt Ltd**
+
+Worked on real-world AI systems, backend integration, deployment, and client-facing solutions.
+
+---
+
+## 🌐 Portfolio
+
+🔗 https://hari-ragavendiran-portfolio.vercel.app/
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/HariRagavanR  
-- LinkedIn: https://www.linkedin.com/in/hari-ragavendiran-r-a61679259  
+
+📧 [hariiragavan810@gmail.com](mailto:hariiragavan810@gmail.com)
+💼 Open to GenAI / AI Engineer / Backend roles
 
 ---
 
-⭐ Actively building GenAI, backend, and security-focused projects.
+⭐ Always building. Always learning. Focused on real-world AI systems.
