@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hari Ragavendiran R
 
-🚀 **Independent GenAI Developer | AI Product Builder **
+🚀 **Independent GenAI Developer | AI Product Builder**
 
 I build production-ready AI applications using **Generative AI, RAG pipelines, and scalable backend systems**.
 Focused on turning AI concepts into **real-world, deployable products**.
